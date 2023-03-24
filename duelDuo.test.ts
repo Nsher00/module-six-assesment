@@ -27,9 +27,10 @@ test('This makes sure the choose header is diplayed', async () => {
     expect(displayed).toBe(true)
 })
 
-test('This makes sure the choose header is diplayed', async () => {
+test('This makes sure that the your duo title pops up', async () => {
     await driver.findElement(By.id('draw')).click()
-    const title = await driver.findElement(By.id('choose-header'))
+    await driver.findElement(By.className('bot-btn')).click()
+    const title = await driver.findElement(By.id('your-duo-header'))
     const displayed = await title.isDisplayed()
 
     expect(displayed).toBe(true)
