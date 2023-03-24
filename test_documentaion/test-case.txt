@@ -1,0 +1,14 @@
+Test Case for the Draw Feature
+
+Description:
+This test should show that the draw button is funtioning properly.
+
+Steps:
+Go to site.
+Click draw button.
+Make sure five cards display.
+Refresh and retry a few times to see that they are randomized.
+Make sure that they leave the choose two area and are added to the your duo area.
+
+Test Postconditions:
+Two bots are added to the your duo section.

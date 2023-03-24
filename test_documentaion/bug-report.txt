@@ -1,0 +1,15 @@
+Bug Report for the Duel Duo Site.
+
+The show all bots button wont show all the cards.
+
+Steps to reproduce:
+
+Make sure your Browser is Crome Version 111.0.5563.111 (Official Build) (64-bit) and OS is Windows 11.
+Click on show all bots button.
+
+Expected results:
+
+Shows all the bots cards on the site.
+
+Actual results:
+Nothing is changed or shown.

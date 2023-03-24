@@ -1,0 +1,33 @@
+test plan for duel duo
+
+Functionality
+
+the app should allow the user to select two robot cards out of a selection
+of five for their duo if the damage and health are greater than the enemy
+team you win if it's less then you lose both of these should display a message 
+to the player indicated either outcome. Also the player should be able to see
+All the bots avalible.
+
+Test Steps and Expected results:
+
+1. Test the see all bots button to see if it is working.
+2. Click the draw button to see if it displays randomized robot cards.
+3. Click on the add to duo button to see if it adds them to the duo
+4. Click on the remove from duo button to see if it add the card back to the choose 2 section 
+5. See if when two bots are put in the duo if the duek button shows up
+6. Click the duel button to see if it brings you the duel page and if the users robot stats are greater than the computers cards and if they are it diplays you win if not you loose.
+7. Click on the play again button to see if it resets the program.
+
+Entry Criteria:
+Test criteria provided
+Running version provided for testing
+Computer for testing
+
+Exit Criteria:
+Make sure all tests have been passed
+
+Other details:
+Recommended Browser and OS:
+Browser: Chrome Version 111.0.5563.111 (Official Build) (64-bit)
+OS: Windows 11
+Though it should run on any OS or Browser.
